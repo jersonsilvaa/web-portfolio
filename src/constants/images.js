@@ -19,6 +19,7 @@ import graphql from '../assets/graphql.png'
 import flutter from '../assets/flutter.png'
 import typescript from '../assets/typescript.png'
 import javascript from '../assets/javascript.png'
+import nextjs from '../assets/nextjs.png'
 
 // export images
 
@@ -46,6 +47,7 @@ import spotify from '../assets/spotify.png'
 export default {
   email,
   mobile,
+  nextjs,
   api,
   cpp,
   css,
